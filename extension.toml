@@ -1,0 +1,7 @@
+id = "kabukicho"
+name = "Kabukichō"
+version = "0.0.1"
+schema_version = 1
+authors = ["Hans Kokx"]
+description = "Kabukichō"
+repository = "https://github.com/hanskokx/kabukicho-zed-theme"
